@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Suarez</h1>
 
 # About Me:
-My mission is to become a full-stack data analyst as a marketer. Combining my marketing background with my technical ability to clean, analyze, and report large amounts of data to support business decisions…it is a powerful combo!
+Hi, I’m Rodrigo! I’m a marketing and data analyst passionate about using data to drive smarter decisions in sports, gaming, anime, and film. At OMG23, I help build platform-specific audiences for Disney Studios using past, current, and predictive campaign data.
 
-
-# What I am up to:
-- I am always learning so currently I am interested in the world of LLMs**
+With a B.S. in Marketing and a minor in Business Analytics, I blend SQL, Python, Tableau, and The Trade Desk to optimize marketing strategies. This GitHub showcases projects exploring audience insights, gaming performance, and retail analytics thanks to my personal curiousity and Datathon participations (won 2 btw)!
 
 # Tech Stack
 
